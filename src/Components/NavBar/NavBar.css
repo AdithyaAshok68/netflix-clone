@@ -1,0 +1,38 @@
+.navbar {
+    width: 100%;
+    /* background-color: #111; */
+    height: 30px;
+    position: fixed;
+    top: 0;
+    padding: 20px;
+}
+.logo {
+    width: 80px;
+    position: fixed;
+    left: 20px;
+}
+
+.avatar{
+    position: fixed;
+    width: 35px;
+    right: 30px;
+    border-radius: 3px;
+
+}
+.bell{
+    position: fixed;
+    right: 83px;
+    top: 24px
+}
+.arrow{
+    position: fixed;
+    right: 14px;
+    width: 12px;
+    top: 34px;
+}
+.search{
+    position: fixed;
+    right: 150px;
+    width: 31px;
+    top: 22px;
+}
